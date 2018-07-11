@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="Properties" />
     </extensionMap>
   </component>
