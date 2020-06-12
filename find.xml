@@ -12,9 +12,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.json</mask>
-    <mask>*.yml</mask>
     <mask>pom.xml</mask>
     <mask>*.xsl</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
