@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="หกดหกด" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="rst" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="Properties" />
     </extensionMap>
