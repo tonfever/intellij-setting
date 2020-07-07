@@ -14,8 +14,8 @@
     <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.xsl</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
