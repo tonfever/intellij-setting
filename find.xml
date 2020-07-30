@@ -18,5 +18,6 @@
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>endpoints.xml</mask>
   </component>
 </application>
