@@ -9,6 +9,7 @@
       <mapping pattern="หกดหกด" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="rst" type="PLAIN_TEXT" />
+      <mapping ext="sonar" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="Properties" />
     </extensionMap>
   </component>
