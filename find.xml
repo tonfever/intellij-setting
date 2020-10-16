@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,11 +15,11 @@
     <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*.</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>endpoints.xml</mask>
     <mask>*.java</mask>
     <mask>*.xsl</mask>
     <mask>*.tf</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
