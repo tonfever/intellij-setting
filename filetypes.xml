@@ -7,6 +7,7 @@
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="หกดหกด" type="PLAIN_TEXT" />
+      <mapping pattern="094_fix_enable_insert_product_log" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="rst" type="PLAIN_TEXT" />
