@@ -15,11 +15,11 @@
     <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*.</mask>
-    <mask>*.xml</mask>
     <mask>endpoints.xml</mask>
     <mask>*.xsl</mask>
     <mask>*.tf</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
