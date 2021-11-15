@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="createorder-fmsmdc-10104_1" type="AUTO_DETECTED" />
       <mapping pattern="tttt" type="AUTO_DETECTED" />
       <mapping pattern="eeee.xml" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
