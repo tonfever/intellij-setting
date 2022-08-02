@@ -20,7 +20,7 @@
     <mask>*.yml</mask>
     <mask>*.properties</mask>
     <mask>*.json</mask>
-    <mask>*.xsl</mask>
     <mask>*.sql</mask>
+    <mask>*.xsl</mask>
   </component>
 </application>
