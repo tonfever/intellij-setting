@@ -14,11 +14,11 @@
     <mask>endpoints.xml</mask>
     <mask>*.tf</mask>
     <mask>*.xml</mask>
-    <mask>*.yml</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.xsl</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
