@@ -18,7 +18,7 @@
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.xsl</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
