@@ -13,12 +13,12 @@
     <mask>*.</mask>
     <mask>endpoints.xml</mask>
     <mask>*.tf</mask>
-    <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.xsl</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
