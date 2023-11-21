@@ -1,25 +1,25 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="createorder-fmsmdc-10104_1" type="AUTO_DETECTED" />
-      <mapping pattern="tttt" type="AUTO_DETECTED" />
-      <mapping pattern="eeee.xml" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern="094_fix_enable_insert_product_log" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern="หกดหกด" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="rst" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="หกดหกด" type="PLAIN_TEXT" />
       <mapping ext="sonar" type="PLAIN_TEXT" />
+      <mapping ext="rst" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="Properties" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
+      <mapping pattern="createorder-fmsmdc-10104_1" type="AUTO_DETECTED" />
+      <mapping pattern="eeee.xml" type="AUTO_DETECTED" />
+      <mapping pattern="tttt" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
