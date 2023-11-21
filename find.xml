@@ -9,15 +9,16 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*.</mask>
     <mask>endpoints.xml</mask>
-    <mask>*.xsl</mask>
     <mask>*.tf</mask>
+    <mask>*.sql</mask>
+    <mask>*.xsl</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
+    <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
